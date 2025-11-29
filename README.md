@@ -15,3 +15,5 @@ Thanks for your attention.
 
 1. Добавлен локально текст через Notepad++
 2. Добавлен текст на GitHub через Firefox
+
+2. Добавлен текст через IntelliJ IDEA
