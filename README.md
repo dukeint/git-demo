@@ -14,3 +14,4 @@ Thanks for your attention.
 Спасибо за внимание.
 
 1. Добавлен локально текст через Notepad++
+2. Добавлен текст на GitHub через Firefox
